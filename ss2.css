@@ -4,7 +4,7 @@ width: 300px;
 
 .profile-pic{
 	border-radius: 50%;
-	
+
 }
 .rotateimg90 {
   -webkit-transform:rotate(270deg);
@@ -17,6 +17,7 @@ width: 300px;
   margin: auto;
   width: 50%;
   padding: 10px;
+	background-color: black;
 }
 header{
 	  margin: auto;
@@ -24,9 +25,9 @@ header{
   padding: 10px;
 }
 .bad-style{
-	
+
 	color:pink;
 	background-color: green;
-	
-	
+
+
 }
